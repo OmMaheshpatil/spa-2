@@ -8,17 +8,17 @@ export const SITE_CONFIG = {
   // Brand Identity
   businessName: "OM LUXURY SPA & WELLNESS",
   tagline: "Where serenity meets body renewal.",
-  city: "Thane West",
-  locationBadge: "Thane West • Ghodbunder Road",
+  city: "Thane",
+  locationBadge: "Thane",
   
   // Contact Details
   phone: "+91 77384 17257",
   whatsappNumber: "917738417257", // No spaces or + sign
   email: "hello@omluxuryspa.com",
-  address: "Ghodbunder Road, Near Suraj Water Park, Thane West, Maharashtra 400615",
+  address: "Thane, Maharashtra",
   
   // External Integration URLs
-  googleMapsUrl: "https://maps.google.com/?q=Thane+West+Ghodbunder+Road+Maharashtra",
+  googleMapsUrl: "https://maps.google.com/?q=Thane+Maharashtra",
   googleFormUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc-placeholder-demo-form/viewform?embedded=true",
   
   // Social Media Links
