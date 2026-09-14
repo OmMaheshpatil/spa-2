@@ -30,7 +30,7 @@ export const SITE_CONFIG = {
   
   // Floating Offer Widget (Bottom-Left)
   offerWidget: {
-    agentName: "Dishu",
+    agentName: "Ayushi",
     agentStatus: "Online now",
     badge: "Special Offer Today!",
     title: "UPTO 35% OFF",
